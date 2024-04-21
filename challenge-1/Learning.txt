@@ -1,0 +1,7 @@
+What is a buffer
+-> Well a buffer in simple terms is a temporary location where we store the binary format of data
+when the data is being passed from one place to another or some process is happening on the data..
+Generally used in the i/o operations
+Summary of Differences
+Memory Allocation: & creates a pointer by obtaining the memory address of a variable. It doesn't allocate new memory but creates a reference to existing memory.
+Dereferencing: * is used to dereference a pointer, allowing you to access or change the value at the pointer's memory location.
